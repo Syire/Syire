@@ -17,7 +17,7 @@
 
 ### Other
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
+![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=fff&style=flat)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Syire&show_icons=true&theme=transparent)
 
