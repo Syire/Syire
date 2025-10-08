@@ -50,7 +50,6 @@ I enjoy exploring new technologies, creating interactive UIs, and designing soli
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Syire&show_icons=true&theme=transparent&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syire&layout=compact&theme=transparent&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Syire&theme=transparent&hide_border=true)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Syire&theme=algolia&no-bg=true&no-frame=true&margin-w=8)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Syire&theme=github-compact&hide_border=true)
@@ -58,18 +57,24 @@ I enjoy exploring new technologies, creating interactive UIs, and designing soli
 ---
 
 ### 🚀 Featured Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syire&repo=nome-repo-1&theme=transparent&hide_border=true)](https://github.com/Syire/RingoTale)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Syire&repo=nome-repo-2&theme=transparent&hide_border=true)](https://github.com/Syire/The-Worst-Game-)
+<div align="center">
+  <a href="https://github.com/Syire/RingoTale">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syire&repo=RingoTale&theme=transparent&hide_border=true" alt="RingoTale" height="140" />
+  </a>
+  <a href="https://github.com/Syire/The-Worst-Game-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syire&repo=The-Worst-Game-&theme=transparent&hide_border=true" alt="The Worst Game" height="140" />
+  </a>
+</div>
 
 ---
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-gurrata?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurr.mar25@gmail.com)
 
 ---
 
-⭐ <em>“Code is like humor — when you have to explain it, it’s bad.”</em>
+🍀 <em>“Code is like humor, when you have to explain it, it’s bad.”
+</em>
 
 </div>
